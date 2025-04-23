@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Python-based web scraper that allows users to fetch and save the summary content of a Wikipedia page. The user enters a topic, and the scraper retrieves the corresponding Wikipedia page's introductory content and saves it to a text file.
+This projects is a Python-based web scraper that allows users to fetch and save the summary content of a Wikipedia page. The user enters a topic, and the scraper retrieves the corresponding Wikipedia page's introductory content and saves it to a text file.
 
 Watch the demo video to see the scraper in action: [Demo Video](https://1drv.ms/v/c/8c8713fbccf62dfa/EfR3IGmduelHmC_RIoY03WkBlvb8MSBrsia9L4X9mQ7GRw?e=bI6pQD)
 
