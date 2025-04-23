@@ -106,6 +106,10 @@ Artificial intelligence (AI) is intelligence demonstrated by machines, as oppose
 - Include language support for Wikipedia pages in different languages.
 - Enhance the user interface with a GUI version.
 
+## COLLABORATORS :
+GitHub Username | Role | https://github.com/Adri2204
+Adri2204 | Collaborator | Adri2204
+
 ## License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code with proper attribution.
