@@ -106,9 +106,12 @@ Artificial intelligence (AI) is intelligence demonstrated by machines, as oppose
 - Include language support for Wikipedia pages in different languages.
 - Enhance the user interface with a GUI version.
 
-## COLLABORATORS :
-GitHub Username | Role | https://github.com/Adri2204
-Adri2204 | Collaborator | Adri2204
+## 👥 COLLABORATORS
+
+| GitHub Username | Role         | Profile Link                          |
+|------------------|--------------|----------------------------------------|
+| Adri2204         | Collaborator | [Adri2204](https://github.com/Adri2204) |
+
 
 ## License
 
